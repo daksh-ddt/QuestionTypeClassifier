@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 """
-done in 2539.012s
-Best score: 0.936
+done in 12108.943s
+Best score: 0.912
 Best parameters set:
-    clf__alpha: 0.0001
-    clf__n_iter: 80
-    clf__penalty: 'elasticnet'
-    tfidf__norm: 'l2'
+    clf__alpha: 1e-05
+    clf__n_iter: 50
+    clf__penalty: 'l2'
+    tfidf__norm: 'l1'
     tfidf__use_idf: False
     vect__max_df: 0.75
     vect__max_features: None
-    vect__ngram_range: (1, 2)
+    vect__ngram_range: (1, 1)
     vect__stop_words: None
 """
 __author__ = 'gavin hackeling'

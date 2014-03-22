@@ -1,1 +1,0 @@
-What 's an easy way to count the approximate number of fish in a lake ?
